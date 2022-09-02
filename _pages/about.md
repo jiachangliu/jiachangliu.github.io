@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>fistName.lastName at duke.edu</p> 
     <p>Duke University</p>
     <p>Durham, NC 27705</p>
 
