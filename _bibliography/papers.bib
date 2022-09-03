@@ -2,6 +2,7 @@
 ---
 
 @inproceedings{liu2022fast,
+  abbr={AISTATS},
   title={Fast Sparse Classification for Generalized Linear and Additive Models},
   author={Liu, Jiachang and Zhong, Chudi and Seltzer, Margo and Rudin, Cynthia},
   abstract={We present fast classification techniques for sparse generalized linear and additive models. These techniques can handle thousands of features and thousands of observations in minutes, even in the presence of many highly correlated features. For fast sparse logistic regression, our computational speed-up over other best-subset search techniques owes to linear and quadratic surrogate cuts for the logistic loss that allow us to efficiently screen features for elimination, as well as use of a priority queue that favors a more uniform exploration of features. As an alternative to the logistic loss, we propose the exponential loss, which permits an analytical solution to the line search at each iteration. Our algorithms are generally 2 to 5 times faster than previous approaches. They produce interpretable models that have accuracy comparable to black box models on challenging datasets.},
@@ -15,6 +16,7 @@
 }
 
 @article{xu2022representing,
+  abbr={TPAMI},
   title={Representing Graphs via Gromov-Wasserstein Factorization},
   author={Xu, Hongteng and Liu, Jiachang and Luo, Dixin and Carin, Lawrence},
   abstract={We propose a new nonlinear factorization model for graphs that have topological structures, and optionally, node attributes. This model is based on a pseudo-metric called Gromov-Wasserstein (GW) discrepancy, which compares graphs in a relational way. It estimates observed graphs as the GW barycenters constructed by a set of graph bases with different weights. By minimizing the difference between each observed graph and its GW barycenter-based estimation, we learn the graph bases and their weights associated with the observed graphs. The model achieves a novel and flexible factorization mechanism for graphs, in which both the observed graphs and the learnable graph bases can be unaligned and with different sizes. We design an effective approximate algorithm for learning this Gromov-Wasserstein factorization (GWF) model, unrolling loopy computations as stacked modules and computing gradients with backpropagation. For each observed graph, the weights lead to its permutation-invariant representation. These weights can be parametrized by a graph neural network so that we can extend the proposed transductive GWF model to an inductive version. Compared with state-of-the-art methods, our GWF method can represent graphs with better interpretability and using lower dimensionality, while simultaneously achieving encouraging results in graph clustering and classification task.},
@@ -26,6 +28,7 @@
 }
 
 @inproceedings{liu2022makes,
+  abbr={ACL},
   title={What Makes Good In-Context Examples for GPT-3?},
   author={Liu, Jiachang and Shen, Dinghan and Zhang, Yizhe and Dolan, William B and Carin, Lawrence and Chen, Weizhu},
   abstract={GPT-3 has attracted lots of attention due to its superior performance across a wide range of NLP tasks, especially with its powerful and versatile in-context few-shot learning ability. Despite its success, we found that the empirical results of GPT- depend heavily on the choice of in-context examples. In this work, we investigate whether there are more effective strategies for judiciously selecting in-context examples (relative to random sampling) that better leverage GPT-3's few-shot capabilities. Inspired by the recent success of leveraging a retrieval module to augment large-scale neural network models, we propose to retrieve examples that are semantically-similar to a test sample to formulate its corresponding prompt. Intuitively, the in-context examples selected with such a strategy may serve as more informative inputs to unleash GPT-3's extensive knowledge. We evaluate the proposed approach on several natural language understanding and generation benchmarks, where the retrieval-based prompt selection approach consistently outperforms the random baseline. Moreover, it is observed that the sentence encoders fine-tuned on task-related datasets yield even more helpful retrieval results. Notably, significant gains are observed on tasks such as table-to-text generation (41.9% on the ToTTo dataset) and open-domain question answering (45.5% on the NQ dataset). We hope our investigation could help understand the behaviors of GPT- and large-scale pre-trained LMs in general and enhance their few-shot capabilities.},
@@ -38,6 +41,7 @@
 }
 
 @inproceedings{cheng2020club,
+  abbr={ICML},
   title={CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information},
   author={Cheng, Pengyu and Hao, Weituo and Dai, Shuyang and Liu, Jiachang and Gan, Zhe and Carin, Lawrence},
   abstract={Mutual information (MI) minimization has gained considerable interests in various machine learning tasks. However, estimating and minimizing MI in high-dimensional spaces remains a challenging problem, especially when only samples, rather than distribution forms, are accessible. Previous works mainly focus on MI lower bound approximation, which is not applicable to MI minimization problems. In this paper, we propose a novel Contrastive Log-ratio Upper Bound (CLUB) of mutual information. We provide a theoretical analysis of the properties of CLUB and its variational approximation. Based on this upper bound, we introduce a MI minimization training scheme and further accelerate it with a negative sampling strategy. Simulation studies on Gaussian distributions show the reliable estimation ability of CLUB. Real-world MI minimization experiments, including domain adaptation and information bottleneck, demonstrate the effectiveness of the proposed method. The code is at https://github.com/Linear95/CLUB.},
