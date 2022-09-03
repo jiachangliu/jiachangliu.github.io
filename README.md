@@ -523,3 +523,8 @@ The theme is available as open source under the terms of the [MIT License](https
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
 Since then, it got a full re-write of the styles and many additional cool features.
 
+## A Note to Myself
+
+For Docker image, use digest number '489bff61b782' or 'sha256:489bff61b7821dabd12a633d6f79d36bb3f1f7aa0c58e52950d417979a37887f'.
+
+Also, for mini_racer in Gemfile, set the version to '0.6.0' in GitHub but set the version to '0.6.3' locally.
