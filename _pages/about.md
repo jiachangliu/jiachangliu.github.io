@@ -11,7 +11,7 @@ profile:
   address: >
     <p>fistName.lastName at duke.edu</p> 
     <p>Duke University</p>
-    <p>Durham, NC 27705</p>
+    <p>Durham, NC, 27705</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
