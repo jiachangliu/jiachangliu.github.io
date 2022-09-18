@@ -1,6 +1,16 @@
 ---
 ---
 
+@article{liu2022fasterisk,
+  abbr={NeurIPS},
+  title={Faster{R}isk: Fast and Accurate Interpretable Risk Scores},
+  author={Liu$*$, Jiachang and Zhong$*$, Chudi and Li, Boxuan and Seltzer, Margo and Rudin, Cynthia},
+  abstract={Over the last century, *risk scores* have been the most popular form of predictive model used in healthcare and criminal justice. Risk scores are sparse linear models with integer coefficients; often these models can be memorized or placed on an index card. Typically, risk scores have been created either without data or by rounding logistic regression coefficients, but these methods do not reliably produce high-quality risk scores. Recent work used mathematical programming, which is computationally slow. We introduce an approach for efficiently producing a collection of high-quality risk scores learned from data. Our approach involves producing a pool of almost-optimal sparse continuous solutions, each with a different support set, using a beam-search algorithm. Each of these continuous solutions is transformed into a separate risk score through a ``star search,'' where a range of multipliers are considered before rounding the coefficients sequentially to maintain low logistic loss. Our algorithm returns all of these high-quality risk scores for the user to consider. This method completes within minutes and can be impactful in a broad variety of applications.},
+  journal={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2022},
+  selected={true}
+}
+
 @inproceedings{liu2022fast,
   abbr={AISTATS},
   title={Fast Sparse Classification for Generalized Linear and Additive Models},
@@ -15,6 +25,19 @@
   selected={true}
 }
 
+@inproceedings{liu2022makes,
+  abbr={ACL-W},
+  title={What Makes Good In-Context Examples for GPT-3?},
+  author={Liu, Jiachang and Shen, Dinghan and Zhang, Yizhe and Dolan, William B and Carin, Lawrence and Chen, Weizhu},
+  abstract={GPT-3 has attracted lots of attention due to its superior performance across a wide range of NLP tasks, especially with its powerful and versatile in-context few-shot learning ability. Despite its success, we found that the empirical results of GPT-3 depend heavily on the choice of in-context examples. In this work, we investigate whether there are more effective strategies for judiciously selecting in-context examples (relative to random sampling) that better leverage GPT-3's few-shot capabilities. Inspired by the recent success of leveraging a retrieval module to augment large-scale neural network models, we propose to retrieve examples that are semantically-similar to a test sample to formulate its corresponding prompt. Intuitively, the in-context examples selected with such a strategy may serve as more informative inputs to unleash GPT-3's extensive knowledge. We evaluate the proposed approach on several natural language understanding and generation benchmarks, where the retrieval-based prompt selection approach consistently outperforms the random baseline. Moreover, it is observed that the sentence encoders fine-tuned on task-related datasets yield even more helpful retrieval results. Notably, significant gains are observed on tasks such as table-to-text generation (41.9% on the ToTTo dataset) and open-domain question answering (45.5% on the NQ dataset). We hope our investigation could help understand the behaviors of GPT-3 and large-scale pre-trained LMs in general and enhance their few-shot capabilities.},
+  booktitle={Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures, Association for Computational Linguistics},
+  pages={100--114},
+  year={2022},
+  pdf={https://arxiv.org/abs/2101.06804},
+  code={https://github.com/jiachangliu/KATEGPT3},
+  selected={true}
+}
+
 @article{xu2022representing,
   abbr={TPAMI},
   title={Representing Graphs via Gromov-Wasserstein Factorization},
@@ -24,19 +47,6 @@
   year={2022},
   publisher={IEEE},
   pdf={https://ieeexplore.ieee.org/abstract/document/9720092},
-  selected={true}
-}
-
-@inproceedings{liu2022makes,
-  abbr={ACL},
-  title={What Makes Good In-Context Examples for GPT-3?},
-  author={Liu, Jiachang and Shen, Dinghan and Zhang, Yizhe and Dolan, William B and Carin, Lawrence and Chen, Weizhu},
-  abstract={GPT-3 has attracted lots of attention due to its superior performance across a wide range of NLP tasks, especially with its powerful and versatile in-context few-shot learning ability. Despite its success, we found that the empirical results of GPT-3 depend heavily on the choice of in-context examples. In this work, we investigate whether there are more effective strategies for judiciously selecting in-context examples (relative to random sampling) that better leverage GPT-3's few-shot capabilities. Inspired by the recent success of leveraging a retrieval module to augment large-scale neural network models, we propose to retrieve examples that are semantically-similar to a test sample to formulate its corresponding prompt. Intuitively, the in-context examples selected with such a strategy may serve as more informative inputs to unleash GPT-3's extensive knowledge. We evaluate the proposed approach on several natural language understanding and generation benchmarks, where the retrieval-based prompt selection approach consistently outperforms the random baseline. Moreover, it is observed that the sentence encoders fine-tuned on task-related datasets yield even more helpful retrieval results. Notably, significant gains are observed on tasks such as table-to-text generation (41.9% on the ToTTo dataset) and open-domain question answering (45.5% on the NQ dataset). We hope our investigation could help understand the behaviors of GPT-3 and large-scale pre-trained LMs in general and enhance their few-shot capabilities.},
-  booktitle={Proceedings of Deep Learning Inside Out (DeeLIO 2022): The 3rd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures, Association for Computational Linguistics},
-  pages={100--114},
-  year={2022},
-  pdf={https://arxiv.org/abs/2101.06804},
-  code={https://github.com/jiachangliu/KATEGPT3},
   selected={true}
 }
 

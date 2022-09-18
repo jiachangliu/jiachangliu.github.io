@@ -18,7 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Jiachang Liu, a Ph.D. candidate studying machine learning at Duke University. My advisor is Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). My main research interest is in interpretable machine learning. I am designing ML algorithms that rely heavily on efficient discrete and continuous optimization techniques.
+I am a Ph.D. candidate studying machine learning at Duke University. My advisor is Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
+
+My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.
+
+My research is organized around three thrusts:
+
+  1) Finding practical ML problems where interpretability matters greatly but performance or computational speed lags behind;
+
+  2) Designing efficient descrete and continuous optimization techniques to solve sparse ML problems, which are usually nonconvex and have a combinatorial nature; and
+
+  3) Building robust open-source code by leveraging efficient data structures and careful implementation to provide user-freindly softwares/packages for practioners in the broad ML/statistics commmunity.
 
 Before coming to Duke, I earned my B.S. degree with double majors in in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018.
 
