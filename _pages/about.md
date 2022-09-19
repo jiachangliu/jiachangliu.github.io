@@ -26,9 +26,9 @@ My research is organized around three thrusts:
 
   1) Finding practical ML problems where interpretability matters greatly but performance or computational speed lags behind;
 
-  2) Designing efficient descrete and continuous optimization techniques to solve sparse ML problems, which are usually nonconvex and have a combinatorial nature; and
+  2) Designing efficient discrete and continuous optimization techniques to solve sparse ML problems, which are usually nonconvex and have a combinatorial nature; and
 
-  3) Building robust open-source code by leveraging efficient data structures and careful implementation to provide user-freindly softwares/packages for practioners in the broad ML/statistics commmunity.
+  3) Building robust open-source code by leveraging efficient data structures and careful implementation to provide user-friendly softwares/packages for practitioners in the broad ML/statistics community.
 
 Before coming to Duke, I earned my B.S. degree with double majors in in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018.
 
