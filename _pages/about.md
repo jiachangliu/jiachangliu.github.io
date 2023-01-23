@@ -30,7 +30,7 @@ My research is organized around three thrusts:
 
   3) Building robust open-source code by leveraging efficient data structures and careful implementation to provide user-friendly softwares/packages for practitioners in the broad ML/statistics community.
 
-Before coming to Duke, I earned my B.S. degree with double majors in in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018.
+Before coming to Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
