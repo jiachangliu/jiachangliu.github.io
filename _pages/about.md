@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>fistName.lastName at duke.edu</p> 
-    <p>Duke University</p>
-    <p>Durham, NC, 27705</p>
+    <p>fistName.lastName at cornell.edu</p>
+    <p>Cornell University</p>
+    <p>Ithaca, NY, 14853</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
