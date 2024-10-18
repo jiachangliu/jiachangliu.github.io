@@ -18,21 +18,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate studying machine learning at Duke University. My advisor is Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
+I am an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University.
+My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
 
-My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.
+Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
+I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
+Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
 
-My research is organized around three thrusts:
 
-  1) Finding practical ML problems where interpretability matters greatly but performance or computational speed lags behind;
+<!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
-  2) Designing efficient discrete and continuous optimization techniques to solve sparse ML problems, which are usually nonconvex and have a combinatorial nature; and
+My research interest is organized around three thrusts:
 
-  3) Building robust open-source code by leveraging efficient data structures and careful implementation to provide user-friendly softwares/packages for practitioners in the broad ML/statistics community.
+  1) creating interpretable and trustworthy ML solutions for high-stakes decision making, in domains such as healthcare, criminal justice, and finance;
 
-Before coming to Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018.
+  2) designing efficient discrete and continuous optimization techniques to solve related optimization problems, which are usually nonconvex and have a combinatorial nature;
 
----
+  3) building open-source, efficient, and user-friendly software packages for the broad data science community.
+
+The long-term goal is to let humans and machines seamlessly collaborate and complement each other. 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
