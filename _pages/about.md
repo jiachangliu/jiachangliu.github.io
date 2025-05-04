@@ -36,7 +36,7 @@ latest_posts:
 I am an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University.
 My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
 
-Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
+Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
 I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
 Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
 Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
