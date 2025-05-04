@@ -3,13 +3,12 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-subtitle: Contact. firstName.lastName at cornell.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>fistName.lastName at cornell.edu</p>
     <p>Cornell University</p>
     <p>Ithaca, NY, 14853</p>
@@ -40,7 +39,6 @@ My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi
 Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
 I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
 Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
-
 Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
 
 
