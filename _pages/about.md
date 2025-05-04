@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Contact. firstName.lastName at cornell.edu
 
 profile:
   align: right
@@ -22,10 +23,16 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<!-- <div class="profile-address">
+  <p>jiachang.liu@cornell.edu</p>
+  <p>Cornell University</p>
+  <p>Ithaca, NY, 14853</p>
+</div> -->
 
 I am an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University.
 My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
@@ -33,6 +40,8 @@ My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi
 Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
 I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
 Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
+
+Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
 
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
