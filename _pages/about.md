@@ -41,18 +41,17 @@ I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/mar
 Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
 Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
 
-
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
 My research interest is organized around three thrusts:
 
-  1) creating interpretable and trustworthy ML solutions for high-stakes decision making, in domains such as healthcare, criminal justice, and finance;
+1. creating interpretable and trustworthy ML solutions for high-stakes decision making, in domains such as healthcare, criminal justice, and finance;
 
-  2) designing efficient discrete and continuous optimization techniques to solve related optimization problems, which are usually nonconvex and have a combinatorial nature;
+2. designing efficient discrete and continuous optimization techniques to solve related optimization problems, which are usually nonconvex and have a combinatorial nature;
 
-  3) building open-source, efficient, and user-friendly software packages for the broad data science community.
+3. building open-source, efficient, and user-friendly software packages for the broad data science community.
 
-The long-term goal is to let humans and machines seamlessly collaborate and complement each other. 
+The long-term goal is to let humans and machines seamlessly collaborate and complement each other.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
