@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Together with Cynthia Rudin, Margo Seltzer, and Chudi Zhong, I was awarded the [Bell Labs Prize](https://cs.duke.edu/news/duke-cs-wins-second-place-bell-labs-2023-prize-competition) 2023 at 2nd place for work on trustworthy AI.
+Together with Cynthia Rudin, Margo Seltzer, and Chudi Zhong, I was awarded the [2023 Bell Labs Prize, 2nd place](https://cs.duke.edu/news/duke-cs-wins-second-place-bell-labs-2023-prize-competition), which recognizes game-changing innovations in science, technology, engineering, and mathematics.

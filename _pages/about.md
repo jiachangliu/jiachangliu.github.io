@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -43,15 +43,26 @@ Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUT
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
-My research interest is organized around three thrusts:
+My research focuses on *building interpretable, trustworthy, and human-centered ML/AI systems* for high-stakes applications such as healthcare and scientific discovery.
+To achieve this, I develop *efficient and scalable optimization algorithms* that solve the challenging nonconvex and combinatorial problems at the *intersection of discrete and continuous optimization*.
+My work is organized around three key areas:
 
-1. creating interpretable and trustworthy ML solutions for high-stakes decision making, in domains such as healthcare, criminal justice, and finance;
+1. **Interpretable Model Creation:** Creating highly accurate medical scoring systems and survival models that are simple enough to fit on an index card, enabling transparent and reliable decision-making;
 
-2. designing efficient discrete and continuous optimization techniques to solve related optimization problems, which are usually nonconvex and have a combinatorial nature;
+2. **Provably Optimal & Scalable Solvers:** Designing first-order, GPU-accelerated methods for *extreme sparse learning* that facilitate robust scientific discovery in fields such as nonlinear dynamical systems;
 
-3. building open-source, efficient, and user-friendly software packages for the broad data science community.
+3. **Human-Centered AI:** Building interactive systems that leverage the *Rashomon Effect* — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
 
-The long-term goal is to let humans and machines seamlessly collaborate and complement each other.
+<!-- **Upcoming Talks:**
+
+1. INFORMS QSR Best Referred Paper Competition Presentation, October 26, 2025, Atlanta, GA, USA.
+
+   **Sunday, 11:00 AM - 12:15 PM, Building B Level 4 B401.**
+
+2. NFORMS Job Market Showcase: Machine Learning & Optimization, October 27, 2025, Atlanta, GA, USA.
+
+   **Monday, 2:45 PM - 4:00 PM, Building A Level 3 A312.** -->
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
