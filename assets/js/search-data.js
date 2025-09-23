@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-together-with-cynthia-rudin-margo-seltzer-and-chudi-zhong-i-was-awarded-the-bell-labs-prize-2023-at-2nd-place-for-work-on-trustworthy-ai",
+            },},{id: "news-together-with-cynthia-rudin-margo-seltzer-and-chudi-zhong-i-was-awarded-the-2023-bell-labs-prize-2nd-place-which-recognizes-game-changing-innovations-in-science-technology-engineering-and-mathematics",
           title: 'Together with Cynthia Rudin, Margo Seltzer, and Chudi Zhong, I was awarded the...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-runner-up-award-2nd-place-for-the-informs-data-mining-and-data-analysis-dmda-workshop-best-theoretical-paper-for-my-paper-fastsurvival",
@@ -25,6 +25,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-was-awarded-the-outstanding-dissertation-award-from-the-duke-ece-department-my-dissertation-can-be-found-here",
           title: 'I was awarded the Outstanding Dissertation Award from the Duke ECE department. My...',
+          description: "",
+          section: "News",},{id: "news-the-work-scalable-optimal-k-sparse-glms-has-been-selected-as-a-finalist-in-the-2025-informs-quality-statistics-and-reliability-qsr-best-paper-competition",
+          title: 'The work Scalable Optimal k-Sparse GLMs has been selected as a finalist in...',
+          description: "",
+          section: "News",},{id: "news-hadis-anahideh-adam-meyers-hairong-wang-and-i-are-organizing-the-the-20th-informs-workshop-on-data-mining-and-decision-analytics-which-will-be-held-on-october-25-2025-in-atlanta-georgia-usa-one-day-before-the-informs-annual-meeting-2025",
+          title: 'Hadis Anahideh, Adam Meyers, Hairong Wang, and I are organizing the The 20th...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
