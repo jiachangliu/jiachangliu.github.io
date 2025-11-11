@@ -43,15 +43,15 @@ Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUT
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
-My research focuses on *building interpretable, trustworthy, and human-centered ML/AI systems* for high-stakes applications such as healthcare and scientific discovery.
-To achieve this, I develop *efficient and scalable optimization algorithms* that solve the challenging nonconvex and combinatorial problems at the *intersection of discrete and continuous optimization*.
+My research focuses on _building interpretable, trustworthy, and human-centered ML/AI systems_ for high-stakes applications such as healthcare and scientific discovery.
+To achieve this, I develop _efficient and scalable optimization algorithms_ that solve the challenging nonconvex and combinatorial problems at the _intersection of discrete and continuous optimization_.
 My work is organized around three key areas:
 
 1. **Interpretable Model Creation:** Creating highly accurate medical scoring systems and survival models that are simple enough to fit on an index card, enabling transparent and reliable decision-making;
 
-2. **Provably Optimal & Scalable Solvers:** Designing first-order, GPU-accelerated methods for *extreme sparse learning* that facilitate robust scientific discovery in fields such as nonlinear dynamical systems;
+2. **Provably Optimal & Scalable Solvers:** Designing first-order, GPU-accelerated methods for _extreme sparse learning_ that facilitate robust scientific discovery in fields such as nonlinear dynamical systems;
 
-3. **Human-Centered AI:** Building interactive systems that leverage the *Rashomon Effect* — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
+3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
 
 <!-- **Upcoming Talks:**
 
@@ -62,7 +62,6 @@ My work is organized around three key areas:
 2. NFORMS Job Market Showcase: Machine Learning & Optimization, October 27, 2025, Atlanta, GA, USA.
 
    **Monday, 2:45 PM - 4:00 PM, Building A Level 3 A312.** -->
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
