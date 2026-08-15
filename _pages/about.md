@@ -35,7 +35,7 @@ latest_posts:
   <p>University Park, PA 16802</p>
 </div> -->
 
-I am a tenure-track Dorothy Quiggle Career Development Assistant Professor in the Department of Computer Science and Engineering and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
+I am a tenure-track Dorothy Quiggle Career Development Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
 
 Previously, I was an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University, hosted by Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
 
