@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>fistName.lastName at cornell.edu</p>
-    <p>Cornell University</p>
-    <p>Ithaca, NY, 14853</p>
+    <p>firstName.lastName at psu.edu</p>
+    <p>W369 Westgate Building</p>
+    <p>288 N. Burrowes Rd.</p>
+    <p>University Park, PA 16802</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,13 +29,15 @@ latest_posts:
 ---
 
 <!-- <div class="profile-address">
-  <p>jiachang.liu@cornell.edu</p>
-  <p>Cornell University</p>
-  <p>Ithaca, NY, 14853</p>
+  <p>firstName.lastName at psu.edu</p>
+  <p>W369 Westgate Building</p>
+  <p>288 N. Burrowes Rd.</p>
+  <p>University Park, PA 16802</p>
 </div> -->
 
-I am an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University.
-My hosts are Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
+I am a tenure-track Dorothy Quiggle Career Development Assistant Professor in the Department of Computer Science and Engineering and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
+
+Previously, I was an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University, hosted by Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
 
 Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
 I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
