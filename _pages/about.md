@@ -37,7 +37,7 @@ latest_posts:
 
 I am a tenure-track Dorothy Quiggle Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
 
-Previously, I was an assistant research professor at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University. Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). Before Duke, I earned my B.S. degree from the University of Michigan, Ann Arbor in 2018. Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
+Previously, I was an assistant research professor at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University. Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). Before Duke, I earned my B.S. degree from the University of Michigan, Ann Arbor in 2018.
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
