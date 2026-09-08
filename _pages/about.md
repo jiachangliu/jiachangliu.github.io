@@ -35,14 +35,9 @@ latest_posts:
   <p>University Park, PA 16802</p>
 </div> -->
 
-I am a tenure-track Dorothy Quiggle Career Development Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
+I am a tenure-track Dorothy Quiggle Assistant Professor in the [Department of Computer Science and Engineering](https://www.eecs.psu.edu/departments/EECS-Departments-Computer-Science-Engineering3.aspx) and a faculty co-hire in the [Institute for Computational and Data Sciences](https://icds.psu.edu/) (ICDS) at Penn State University.
 
-Previously, I was an assistant research professor (postdoc) at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University, hosted by Professor [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and Professor [Soroosh Shafiee](https://sorooshafiee.github.io/).
-
-Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/).
-I also worked closely with Professor [Margo Seltzer](https://www.seltzer.com/margo/).
-Before Duke, I earned my B.S. degree with double majors in physics and mathematics and a minor in computer science from University of Michigan, Ann Arbor in 2018. Go Blue!
-Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
+Previously, I was an assistant research professor at the Center for Data Science for Enterprise and Society (CDSES) at Cornell University. Prior to joining Cornell, I completed my Ph.D. in Electrical and Computer Engineering at Duke University in 2024, advised by Professor [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). Before Duke, I earned my B.S. degree from the University of Michigan, Ann Arbor in 2018. Here is a [link to my CV](https://drive.google.com/file/d/1apcXJB1xHcAuCrFvkBwUTjU37w9sWuhc/view?usp=share_link).
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
@@ -55,6 +50,10 @@ My work is organized around three key areas:
 2. **Provably Optimal & Scalable Solvers:** Designing first-order, GPU-accelerated methods for _extreme sparse learning_ that facilitate robust scientific discovery in fields such as nonlinear dynamical systems;
 
 3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
+
+## Ph.D. opportunities
+
+**I am recruiting Ph.D. students applying in Fall 2026 to start in Fall 2027!** If you enjoy mathematics and programming and are interested in working with me, please apply to the [Computer Science and Engineering (CSE) Ph.D. program at Penn State](https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx) and mention my name in your application. Feel free to email me with a brief description of your experience, interests, and research fit along with your CV and transcript.
 
 <!-- **Upcoming Talks:**
 
