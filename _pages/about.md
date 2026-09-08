@@ -51,9 +51,11 @@ My work is organized around three key areas:
 
 3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
 
-## Ph.D. opportunities
+## Prospective Ph.D. Students
 
-**I am recruiting Ph.D. students applying in Fall 2026 to start in Fall 2027!** If you enjoy mathematics and programming and are interested in working with me, please apply to the [Computer Science and Engineering (CSE) Ph.D. program at Penn State](https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx) and mention my name in your application. Feel free to email me with a brief description of your experience, interests, and research fit along with your CV and transcript.
+**I am recruiting Ph.D. students applying in Fall 2026 to start in Fall 2027!**
+If you enjoy mathematics and programming and are interested in working with me, please apply to the [Computer Science and Engineering (CSE) Ph.D. program at Penn State](https://www.eecs.psu.edu/students/graduate/EECS-How-to-apply-CSE.aspx) and mention my name in your application.
+You are encouraged to contact me via email with a description of your relevant past research experience and future research interests, along with your CV and transcript.
 
 <!-- **Upcoming Talks:**
 
