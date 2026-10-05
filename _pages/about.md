@@ -51,25 +51,38 @@ My work is organized around three key areas:
 
 3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI. -->
 
-My research focuses on building _interpretable, certifiable, and verifiable_ machine learning and AI systems.
+<div class="home-research" markdown="1">
+
+My research focuses on building **interpretable, certifiable, and verifiable** machine learning and AI systems.
 A central goal is to make these systems efficient, trustworthy, and human-centered, particularly for high-stakes decision-making (e.g., healthcare) and scientific discovery.
-To achieve this, I develop efficient and scalable algorithms for challenging nonconvex and combinatorial problems at the intersection of continuous and discrete optimization.
+To achieve this, I develop efficient and scalable algorithms for challenging nonconvex and combinatorial problems at the intersection of **continuous and discrete optimization**.
+
+<div class="home-research-directions" markdown="1">
 
 More recently, I have been interested in 
+{: .home-research-leadin }
 
-1. creating highly accurate models that are simple enough to fit on an index card;
+1. creating **highly accurate models** that are simple enough to fit on an index card;
 
-2. designing first-order and GPU-based optimization methods for extremely sparse learning and more general domain-constrained problems; 
+2. designing **GPU-based optimization methods** that can solve practical combinatorial problems in seconds;
 
-3. building interactive systems that leverage the Rashomon effect—the existence of many good models—to facilitate seamless collaboration between domain experts and AI.
+3. building **interactive Rashomon systems** that facilitate seamless collaboration between domain experts and AI.
+
+</div>
+
+<div class="home-research-questions" markdown="1">
 
 Some questions I would like to explore include: 
+{: .home-research-leadin }
 
-1. How can we create interpretable models that incorporate, respect, and discover domain knowledge?
+1. How can we create interpretable models that incorporate, respect, and discover **domain knowledge**?
 
-2. How can we reduce human–AI interaction bottlenecks? 
+2. How can we reduce **human–AI interaction bottlenecks**?
 
-3. How can we derive predictive and statistical guarantees from complex AI systems?
+3. How can we derive **predictive and statistical guarantees** from complex AI systems?
+
+</div>
+</div>
 
 ## Prospective Ph.D. Students
 
