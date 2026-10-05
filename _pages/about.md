@@ -59,7 +59,7 @@ To achieve this, I develop efficient and scalable algorithms for challenging non
 
 <div class="home-research-directions" markdown="1">
 
-More recently, I have been interested in 
+More recently, I have been interested in
 {: .home-research-leadin }
 
 1. creating **highly accurate models** that are simple enough to fit on an index card;
@@ -72,7 +72,7 @@ More recently, I have been interested in
 
 <div class="home-research-questions" markdown="1">
 
-Some questions I would like to explore include: 
+Some questions I would like to explore include:
 {: .home-research-leadin }
 
 1. How can we create interpretable models that incorporate, respect, and discover **domain knowledge**?
