@@ -41,7 +41,7 @@ Previously, I was an assistant research professor at the Center for Data Science
 
 <!-- My main research interest is in interpretable machine learning. My goal is to create simple and sparse models that can fit into the palm of a person's hand but still give accurate predictions. Simple models help us reveal the underyling data pattern and allow people with less technical background to engage in the data science process by bringing with their domain knowledge.-->
 
-My research focuses on _building interpretable, trustworthy, and human-centered ML/AI systems_ for high-stakes applications such as healthcare and scientific discovery.
+<!-- My research focuses on _building interpretable, trustworthy, and human-centered ML/AI systems_ for high-stakes applications such as healthcare and scientific discovery.
 To achieve this, I develop _efficient and scalable optimization algorithms_ that solve the challenging nonconvex and combinatorial problems at the _intersection of discrete and continuous optimization_.
 My work is organized around three key areas:
 
@@ -49,7 +49,27 @@ My work is organized around three key areas:
 
 2. **Provably Optimal & Scalable Solvers:** Designing first-order, GPU-accelerated methods for _extreme sparse learning_ that facilitate robust scientific discovery in fields such as nonlinear dynamical systems;
 
-3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI.
+3. **Human-Centered AI:** Building interactive systems that leverage the _Rashomon Effect_ — the existence of many good models — to facilitate seamless collaboration between domain experts and AI. -->
+
+My research focuses on building _interpretable, certifiable, and verifiable_ machine learning and AI systems.
+A central goal is to make these systems efficient, trustworthy, and human-centered, particularly for high-stakes decision-making (e.g., healthcare) and scientific discovery.
+To achieve this, I develop efficient and scalable algorithms for challenging nonconvex and combinatorial problems at the intersection of continuous and discrete optimization.
+
+More recently, I have been interested in 
+
+1. creating highly accurate models that are simple enough to fit on an index card;
+
+2. designing first-order and GPU-based optimization methods for extremely sparse learning and more general domain-constrained problems; 
+
+3. building interactive systems that leverage the Rashomon effect—the existence of many good models—to facilitate seamless collaboration between domain experts and AI.
+
+Some questions I would like to explore include: 
+
+1. How can we create interpretable models that incorporate, respect, and discover domain knowledge?
+
+2. How can we reduce human–AI interaction bottlenecks? 
+
+3. How can we derive predictive and statistical guarantees from complex AI systems?
 
 ## Prospective Ph.D. Students
 
